@@ -1,0 +1,3 @@
+= Wissensvermittlung mit Augmented Reality
+
+Wissensvermittlung ist ein zentraler Aspekt der Bildung und des Lernens. In den letzten Jahren hat die Technologie der Augmented Reality (AR) zunehmend an Bedeutung gewonnen, da sie neue Möglichkeiten bietet, Informationen auf interaktive und immersive Weise zu präsentieren. AR ermöglicht es, digitale Inhalte in die reale Welt zu integrieren, wodurch Lernende eine tiefere Verbindung zu den Informationen herstellen können. In diesem Abschnitt werden wir die Potenziale von AR für die Wissensvermittlung untersuchen und wie sie dazu beitragen kann, das Lernen effektiver und ansprechender zu gestalten.

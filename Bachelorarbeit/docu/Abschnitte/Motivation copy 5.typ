@@ -1,0 +1,3 @@
+= Einleitung
+
+Das Modul "Aktuelle Themen der Informatik" beschäftigt sich mit verschiedenen mathematischen Methoden wie Wahrscheinlichkeitsberechnung, Univariate Statistik und Kombinatorik. In dieser Belegarbeit wird der PageRank Algorithmus behandelt, der auf Markov-Ketten basiert. Der PageRank Algorithmus wurde von den Google-Gründern Larry Page und Sergey Brin entwickelt und dient dazu, Webseiten basierend auf ihrer Relevanz zu bewerten und zu sortieren. 
