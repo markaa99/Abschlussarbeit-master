@@ -35,11 +35,11 @@ title: [
 
 #pagebreak()
 
-#include "Abschnitte/Einleitung.typ"
+#include "Abschnitte/01Einleitung.typ"
 
-#include "Abschnitte/Motivation.typ"
+#include "Abschnitte/02Motivation.typ"
 
-#include "Abschnitte/Forschungsstand.typ"
+#include "Abschnitte/03Zielsetzung.typ"
 
 #include "Abschnitte/Fokusgruppen.typ"
 
