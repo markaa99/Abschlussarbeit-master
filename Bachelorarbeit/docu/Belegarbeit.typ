@@ -41,10 +41,12 @@ title: [
 
 #include "Abschnitte/03Zielsetzung.typ"
 
+#include "Abschnitte/04Forschungsstand.typ"
+
 #include "Abschnitte/Fokusgruppen.typ"
 
 #pagebreak()
 
-#bibliography("assets/Literaturverzeichnis.bib")
+#bibliography("assets/literatur.bib")
 
  
